@@ -3,8 +3,6 @@
 
 ## ✨ [Live Link - Otaku House](https://otakuhouse.herokuapp.com/)
 
-### How to Run 🏃‍♀️
-
 ### 📷 Project Screenshots
 
 ![ss](./ss/ss1.png)
